@@ -14,5 +14,5 @@ loop (runs through the number of downloaded files)
 		- extract individual PhD position
 		- count target words
 		- store count in dataframe
-		- identifier (file_ID (file name), position_ID (name of the position - spaces removed))
+		- identifier (file_ID (file name), position_ID (name of the position - spaces removed), truncated)
 
